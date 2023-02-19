@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color:aqua;
+    background-image: linear-gradient(25deg,blue 0%,red 100%);
+}
+.btn {
+    height: 65px;
+    font-size: 1em;
+}
+.btn:hover {
+    font-weight: bold;
+    background-color: rgba(101, 99, 99, 0.9)!important;
+    color: white;
+}
